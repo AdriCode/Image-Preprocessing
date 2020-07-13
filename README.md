@@ -1,4 +1,4 @@
-## Image pre-processing with Google Colaboratory and PyTorch 
+## Image pre-processing with Google and PyTorch  ![img](Drive-Colab-PyTorch.jpg)
 
 The goal of pre-processing is to make improvements to the data by applying transformations such as scaling or normalization.
 
