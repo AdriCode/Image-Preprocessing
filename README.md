@@ -1,6 +1,6 @@
 ## Image pre-processing with Google and PyTorch  ![img](Drive-Colab-PyTorch.jpg)
 
-The goal of image pre-processing is to make improvements to the data by applying transformations such as a histogram equalization 
+The goal of image pre-processing is to make improvements to the data by applying transformations such as histogram equalization 
 for contrast adjustment by spreading the most frequent intensity values.
 
 It is considered the cleanup step 🧹 which prepares the input to have the same quality for the learning model.
