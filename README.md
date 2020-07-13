@@ -5,7 +5,7 @@ for contrast adjustment by spreading the most frequent intensity values.
 
 It is considered the cleanup step 🧹 which prepares the input to have the same quality for the learning model.
 
-This repository contains some techniques using libraries like OpenCV and Pytorch.
+This repository contains some techniques using libraries like OpenCV and PyTorch.
 
 In addition, it includes necessary commands to work in Google Colaboratory while uploading data from your Google Drive
 and saving the final images on your computer.
