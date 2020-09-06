@@ -2,7 +2,7 @@
 
 The goal of image pre-processing is to make improvements to the data by applying transformations such as [histogram equalization](https://en.wikipedia.org/wiki/Histogram_equalization).
 
-It is considered the cleanup step 🧹 which prepares the input to have the same quality for the model.
+It is considered the preliminary phase that improves the quality of the data for the model.
 
 This repository contains techniques using libraries like OpenCV and PyTorch.
 
