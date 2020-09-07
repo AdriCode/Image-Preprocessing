@@ -6,4 +6,4 @@ It is considered the preliminary phase that improves the quality of the data for
 
 This repository contains techniques using libraries like OpenCV and PyTorch.
 
-In addition, it includes necessary commands to work in Google Colaboratory while uploading data from your Google Drive and saving the final images on your computer.
+In addition, it includes necessary commands to work in Google Colaboratory while uploading data from your Google Drive and saving the results on your computer.
